@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Управление машиной</string>
+    <string name="exit">Выход</string>
+    <string name="settings">Настройки</string>
+    <string name="configure">Необходимо указать номер телефона</string>
+    
+    <string name="settings_phone">phone</string>
+    <string name="settings_password">password</string>
+    <string name="settings_lock">lock</string>
+
+    <string name="default_phone"></string>
+    <string name="default_password">0000</string>
+    
+    <string name="phone">Номер телефона</string>
+    <string name="password">Пароль</string>
+    
+    <string name="title">Управление через номер: %s</string>
+    <string name="start">Запуск</string>
+    <string name="audit">Прослушивание салона</string>
+    <string name="location">Определить местоположение</string>
+    <string name="lock">Блокировать двигатель</string>
+    <string name="unlock">Разблокировать двигатель</string>
+    
+    <string name="sending">Отправка сообщения ...</string>
+    <string name="send">Отправлено</string>
+    <string name="failed">Ошибка отправки сообщения</string>
+</resources>
